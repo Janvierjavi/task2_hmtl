@@ -1,0 +1,93 @@
+html {
+    position: relative;
+    min-height: 100%;
+  }
+  
+  body {
+    text-align: center;
+  }
+  
+  .main-header {
+    padding-bottom: 15%;
+    width: 100%;
+    background-size: cover;
+    background-image: url("../images/header.jpg");
+    background-attachment: fixed;
+  }
+  
+  /* From here */
+  header {
+    background-color: #4D4D4D;
+    position: relative;
+    height: 50px;
+    
+  }
+  
+  header ul {
+
+  }
+  
+  header ul a {
+    color: #fff;
+  text-decoration: none;
+  display: block;
+
+  }
+  /*the addition css for separete the up menu*/
+  li.left{
+    float: left; 
+    padding: 10px;
+  }
+  li.right{
+    float: right;
+    padding: 10px;
+  }
+  /*end */
+  header li {
+    text-decoration: none;
+  display: block;
+  }
+  
+  header ul:after {
+  }
+  /* This is the implementation of the header part */
+  
+  .main-header img {
+  /* Implementation of the main image (image of the white "Achieve" character)*/
+   }
+  
+  .about {
+    padding-top: 10px;
+    padding-bottom: 10px;
+  /* Implementation of the About Achieve part*/
+  }
+  
+  /* from here */
+  .function {
+    padding: 2rem;
+    background-color:Gray ;
+  
+  }
+  
+  .function-images {
+    text-align: center;
+  }
+
+  
+  .function-image {
+    display: inline-block;
+    padding: 2rem;
+  }
+  /* Here is the implementation of the function part */
+  
+  footer {
+  /* Implementation of footer part */
+  background-color: #4D4D4D;
+  position: relative;
+  height: 65px;
+padding:5px;
+font-size: 1rem;
+
+  }
+  
+  /* This is a CSS template prepared as a hint, so if you want, you may implement it as you like. Any implementation will pass if it meets the requirements and the code quality is considered to be at a certain level. */
