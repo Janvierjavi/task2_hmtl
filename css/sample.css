@@ -10,7 +10,7 @@ html {
   .main-header {
     padding-bottom: 15%;
     width: 100%;
-    height: 100px;
+    height: 60px;
     background-size: cover;
     background-image: url("../images/header.jpg");
     background-attachment: fixed;
@@ -68,7 +68,6 @@ html {
   .function {
     padding: 2rem;
     background-color: 	rgb(211, 209, 209) ;
-  
   }
   
   .function-images {
