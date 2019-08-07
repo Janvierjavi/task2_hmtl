@@ -10,6 +10,7 @@ html {
   .main-header {
     padding-bottom: 15%;
     width: 100%;
+    height: 100px;
     background-size: cover;
     background-image: url("../images/header.jpg");
     background-attachment: fixed;
@@ -53,6 +54,7 @@ html {
   /* This is the implementation of the header part */
   
   .main-header img {
+   
   /* Implementation of the main image (image of the white "Achieve" character)*/
    }
   
@@ -65,7 +67,7 @@ html {
   /* from here */
   .function {
     padding: 2rem;
-    background-color:Gray ;
+    background-color: 	rgb(211, 209, 209) ;
   
   }
   
